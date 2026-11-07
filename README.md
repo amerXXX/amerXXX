@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 <img width="3763" height="541" alt="ranked-67-desktop" src="https://github.com/user-attachments/assets/2d79da42-da05-42e3-a900-8c4310a2926f" />
 
-## Hi there 👋
+## 
+
